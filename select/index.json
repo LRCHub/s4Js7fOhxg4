@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シー・ラヴズ・ミー・ノット",
+  "base_artist": "Papa Roach",
+  "createdAt": "2026-02-17T12:21:56.405409Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "She Loves Me Not",
+      "artist": "Papa Roach",
+      "has_synced": false,
+      "path": "select/pl_01_She_Loves_Me_Not_Papa_Roach.txt"
+    }
+  ]
+}
